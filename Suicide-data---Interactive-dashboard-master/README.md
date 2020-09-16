@@ -1,3 +1,3 @@
 # Suicide data: Interactive dashboard
 
-Interactive dashbaord created with RMarkdown.
+Interactive dashboard created with RMarkdown.
