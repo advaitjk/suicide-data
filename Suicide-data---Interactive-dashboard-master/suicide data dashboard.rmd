@@ -1,7 +1,7 @@
 ---
 title: "Suicide Data Dashboard" 
-# author: "Saba Tavoosi"
-# date: "June 12, 2019"
+# author: "Advait Jayant"
+# date: "September 16, 2019"
 output: 
   flexdashboard::flex_dashboard:
     social: ["menu"]
